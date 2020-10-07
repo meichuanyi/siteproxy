@@ -10,3 +10,5 @@ yarn.lock
 .now
 bundle.js
 worker/
+
+.vercel
